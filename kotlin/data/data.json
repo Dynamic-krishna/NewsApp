@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Breaking News",
+    "description": "This is a breaking news item.",
+    "author": "John Doe"
+  },
+  {
+    "title": "Technology News",
+    "description": "New technology has been announced.",
+    "author": "Jane Smith"
+  },
+  {
+    "title": "Sports News",
+    "description": "Exciting sports event took place.",
+    "author": "Mike Johnson"
+  }
+]
