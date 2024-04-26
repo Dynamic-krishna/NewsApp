@@ -1,4 +1,6 @@
 # NewsApp
+If You Want to Run this Application in your system you have to put Your API-Key into kotlin / Utilis/Constent.kt 
+where you have to put your API-Key into API-Key variable 
 News Application with using kotlin
 ![News app](https://github.com/Dynamic-krishna/NewsApp/assets/162022101/334e03fe-b8f1-42e5-966b-653805ab5efb)
 ![newsappdark](https://github.com/Dynamic-krishna/NewsApp/assets/162022101/c01e8233-85de-4c00-a623-5c0161ab1b39)
